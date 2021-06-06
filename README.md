@@ -1,2 +1,2 @@
-# FarePricePredection
+# STOCK PRICE PREDICTION
 
